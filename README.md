@@ -1,6 +1,6 @@
 # React To-Do List App
 
-This is a simple responsive image search app built with React.js using Unsplash API. Modal is used to show the large size image by clicking on it.
+This is a simple responsive to-do app built with React.js. Created to-dos are saved in the browser using LocalStorage and can be reused after reopening the browser tab.
 
 #### Live Demo:  [https://jumaed-react-todo.netlify.app](https://jumaed-react-todo.netlify.app/)
 
