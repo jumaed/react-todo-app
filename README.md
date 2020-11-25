@@ -48,7 +48,7 @@ npm run build:prod && npm run start:prod
 
 
 
-## You can reach out 😊😊
+## Reach out to Me 😊😊
 
 Feel free to contact me about the problems. I will try to help as much as I can 😉
 
